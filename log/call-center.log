@@ -1,0 +1,57 @@
+2020-01-17 13:08:28 INFO  Empleado:63 - --------------------- DIRECTOR director ---------------------
+	2020-01-17 13:08:28 INFO  Empleado:63 - --------------------- SUPERVISOR supervisor 2 ---------------------
+	2020-01-17 13:08:28 INFO  Empleado:63 - --------------------- OPERADOR operador 2 ---------------------
+	2020-01-17 13:08:28 INFO  Empleado:63 - --------------------- OPERADOR operador 3 ---------------------
+	2020-01-17 13:08:28 INFO  Empleado:63 - --------------------- SUPERVISOR supervisor 1 ---------------------
+	2020-01-17 13:08:28 INFO  Empleado:63 - --------------------- OPERADOR operador 1 ---------------------
+	2020-01-17 13:08:31 INFO  Dispatcher:31 - Nueva llamada. Identificador #1
+	2020-01-17 13:08:31 INFO  Empleado:55 - operador 1 toma la llamada #1
+	2020-01-17 13:08:31 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:31 INFO  Empleado:66 - operador 1 atiende la llamada #1
+	2020-01-17 13:08:32 INFO  Dispatcher:31 - Nueva llamada. Identificador #2
+	2020-01-17 13:08:32 INFO  Empleado:55 - operador 2 toma la llamada #2
+	2020-01-17 13:08:32 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:32 INFO  Empleado:66 - operador 2 atiende la llamada #2
+	2020-01-17 13:08:33 INFO  Dispatcher:31 - Nueva llamada. Identificador #3
+	2020-01-17 13:08:33 INFO  Empleado:55 - operador 3 toma la llamada #3
+	2020-01-17 13:08:33 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:33 INFO  Empleado:66 - operador 3 atiende la llamada #3
+	2020-01-17 13:08:34 INFO  Dispatcher:31 - Nueva llamada. Identificador #4
+	2020-01-17 13:08:34 INFO  Empleado:55 - supervisor 1 toma la llamada #4
+	2020-01-17 13:08:34 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:34 INFO  Empleado:66 - supervisor 1 atiende la llamada #4
+	2020-01-17 13:08:35 INFO  Dispatcher:31 - Nueva llamada. Identificador #5
+	2020-01-17 13:08:35 INFO  Empleado:55 - supervisor 2 toma la llamada #5
+	2020-01-17 13:08:35 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:35 INFO  Empleado:66 - supervisor 2 atiende la llamada #5
+	2020-01-17 13:08:36 INFO  Dispatcher:31 - Nueva llamada. Identificador #6
+	2020-01-17 13:08:36 INFO  Empleado:55 - director toma la llamada #6
+	2020-01-17 13:08:36 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:36 INFO  Empleado:66 - director atiende la llamada #6
+	2020-01-17 13:08:37 INFO  Dispatcher:31 - Nueva llamada. Identificador #7
+	2020-01-17 13:08:38 INFO  Dispatcher:31 - Nueva llamada. Identificador #8
+	2020-01-17 13:08:38 INFO  Empleado:74 - OPERADOR operador 3 finalizo la llamada #3. Duracion de la llamada: 5 seg.
+	2020-01-17 13:08:38 INFO  Empleado:55 - operador 3 toma la llamada #7
+	2020-01-17 13:08:38 INFO  Empleado:56 - 1 llamadas en espera
+	2020-01-17 13:08:38 INFO  Empleado:66 - operador 3 atiende la llamada #7
+	2020-01-17 13:08:39 INFO  Dispatcher:31 - Nueva llamada. Identificador #9
+	2020-01-17 13:08:40 INFO  Empleado:74 - OPERADOR operador 2 finalizo la llamada #2. Duracion de la llamada: 8 seg.
+	2020-01-17 13:08:40 INFO  Empleado:55 - operador 2 toma la llamada #8
+	2020-01-17 13:08:40 INFO  Empleado:56 - 1 llamadas en espera
+	2020-01-17 13:08:40 INFO  Empleado:66 - operador 2 atiende la llamada #8
+	2020-01-17 13:08:40 INFO  Dispatcher:31 - Nueva llamada. Identificador #10
+	2020-01-17 13:08:40 INFO  Empleado:74 - OPERADOR operador 1 finalizo la llamada #1. Duracion de la llamada: 9 seg.
+	2020-01-17 13:08:40 INFO  Empleado:55 - operador 1 toma la llamada #9
+	2020-01-17 13:08:40 INFO  Empleado:56 - 1 llamadas en espera
+	2020-01-17 13:08:40 INFO  Empleado:66 - operador 1 atiende la llamada #9
+	2020-01-17 13:08:42 INFO  Empleado:55 - supervisor 2 toma la llamada #10
+	2020-01-17 13:08:42 INFO  Empleado:74 - SUPERVISOR supervisor 2 finalizo la llamada #5. Duracion de la llamada: 7 seg.
+	2020-01-17 13:08:42 INFO  Empleado:56 - 0 llamadas en espera
+	2020-01-17 13:08:42 INFO  Empleado:66 - supervisor 2 atiende la llamada #10
+	2020-01-17 13:08:43 INFO  Empleado:74 - SUPERVISOR supervisor 1 finalizo la llamada #4. Duracion de la llamada: 9 seg.
+	2020-01-17 13:08:43 INFO  Empleado:74 - DIRECTOR director finalizo la llamada #6. Duracion de la llamada: 7 seg.
+	2020-01-17 13:08:46 INFO  Empleado:74 - OPERADOR operador 1 finalizo la llamada #9. Duracion de la llamada: 6 seg.
+	2020-01-17 13:08:48 INFO  Empleado:74 - OPERADOR operador 3 finalizo la llamada #7. Duracion de la llamada: 10 seg.
+	2020-01-17 13:08:50 INFO  Empleado:74 - OPERADOR operador 2 finalizo la llamada #8. Duracion de la llamada: 10 seg.
+	2020-01-17 13:08:52 INFO  Empleado:74 - SUPERVISOR supervisor 2 finalizo la llamada #10. Duracion de la llamada: 10 seg.
+	
